@@ -1,0 +1,59 @@
+# אלחנן ארגמן — Generative Engine Optimization Map
+
+> A שירותים משפטיים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-d5bdbffa.zappy5.app
+עורך דין אלחנן ארגמן מספק שירותים משפטיים מקצועיים לעסקים, משפחות וקבלנים. קבע פגישת ייעוץ חינם עוד היום!
+
+### שירותים
+https://-d5bdbffa.zappy5.app/services
+עורך דין אלחנן ארגמן מציע שירותים משפטיים מקצועיים: דין מסחרי, משפחה וגירושין, ייעוץ לקבלנים ועצמאיים ועוד. התייעץ עם מומחה היום!
+
+### אודות
+https://-d5bdbffa.zappy5.app/about
+הכירו את עורך דין אלחנן ארגמן - ניסיון רב בדין מסחרי, משפחה וגירושין. מחויבות למצוינות ושירות אישי ללקוחות.
+
+### צור קשר
+https://-d5bdbffa.zappy5.app/contact
+צור קשר עם עורך דין אלחנן ארגמן לייעוץ משפטי מקצועי. זמין לשירותים משפטיים בכל תחומי המשפט. קבע פגישה עוד היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d5bdbffa.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d5bdbffa.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d5bdbffa.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אלחנן ארגמן
+אלחנן ארגמן is a business in the שירותים משפטיים industry.
+
+## Target Audience
+- בעלי עסקים בינוניים
+- זוגות נשואים
+- עצמאיים וקבלנים
+
+## Industry
+שירותים משפטיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-d5bdbffa.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-d5bdbffa.zappy5.app/robots.txt
